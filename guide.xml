@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo SP FHD">
+    <display-name lang="pt">Globo SP FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200423190200 -0300" stop="20200423193300 -0300" channel="Globo SP FHD">
+    <title lang="pt">SP2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200423193300 -0300" stop="20200423203000 -0300" channel="Globo SP FHD">
+    <title lang="pt">Totalmente Demais</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200423203000 -0300" stop="20200423213800 -0300" channel="Globo SP FHD">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200423213800 -0300" stop="20200423224400 -0300" channel="Globo SP FHD">
+    <title lang="pt">Fina Estampa</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200423224400 -0300" stop="20200423233600 -0300" channel="Globo SP FHD">
+    <title lang="pt">Big Brother Brasil 20</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200423233600 -0300" stop="20200424001900 -0300" channel="Globo SP FHD">
+    <title lang="pt">Pré-Estreia Globoplay: Todas as Mulheres do Mundo</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+</tv>
